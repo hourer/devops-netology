@@ -41,4 +41,9 @@ override.tf.json
 
 # Ignore CLI configuration files
 .terraformrc
-terraform.rc 
+terraform.rc
+
+
+
+
+FIX ветка 
