@@ -160,7 +160,7 @@ explain select * from clients as c where  exists (select id from orders as o whe
 ### Ответ
 
 <p выровнять="по центру">
- <img ширина="1200" высота="600" src="6.1/db7.png">
+ <img ширина="1200" высота="600" src="6.1/db8.png">
 </p>
 
 <p выровнять="по центру">
