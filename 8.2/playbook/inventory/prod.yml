@@ -9,5 +9,5 @@ vector:
   hosts:
     vector-01:
       ansible_host: 51.250.92.234
-      become: yes
+
 
